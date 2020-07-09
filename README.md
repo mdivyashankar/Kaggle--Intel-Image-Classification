@@ -14,7 +14,7 @@ The Train, Test and Prediction data is separated in each zip files.
 There are around 14k images in Train, 3k in Test and 7k in Prediction.   
 This data was initially published on Analytics Vidhya Challenge by Intel to host a Image classification.  
 
-Website link: https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/#LeaderBoard
+Website link: https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/
 
 Used pre-trained VGG model. 
 Results: 85.9% accuracy on validation data.
